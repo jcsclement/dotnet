@@ -29,3 +29,11 @@ C:\repos\Parsers\WindowsFormsApplication1\obj\Debug\parsers.pdb
 C:\repos\Mygit\Parsers\WindowsFormsApplication1\bin\Debug\parsers.exe.config
 C:\repos\Mygit\Parsers\WindowsFormsApplication1\obj\Debug\parsers.exe
 C:\repos\Mygit\Parsers\WindowsFormsApplication1\obj\Debug\parsers.pdb
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\bin\Debug\parsers.exe
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\bin\Debug\parsers.pdb
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\obj\Debug\Parser-xml-json.csprojResolveAssemblyReference.cache
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\obj\Debug\com.cs.Properties.Resources.resources
+C:\repos\Mygit\Parsers\WindowsFormsApplication1\obj\Debug\Parser-xml-json.csproj.GenerateResource.Cache

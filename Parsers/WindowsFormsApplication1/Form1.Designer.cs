@@ -35,6 +35,7 @@
             this.textXMLBox = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.lblRuntime = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // openXMLFileDialog
@@ -65,9 +66,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(450, 55);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(70, 13);
+            this.label1.Size = new System.Drawing.Size(79, 13);
             this.label1.TabIndex = 2;
-            this.label1.Text = "json text area";
+            this.label1.Text = "JSON text area";
             // 
             // textXMLBox
             // 
@@ -82,24 +83,34 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(9, 55);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(66, 13);
+            this.label2.Size = new System.Drawing.Size(73, 13);
             this.label2.TabIndex = 4;
-            this.label2.Text = "xml text area";
+            this.label2.Text = "XML text area";
             // 
             // lblRuntime
             // 
             this.lblRuntime.AutoSize = true;
-            this.lblRuntime.Location = new System.Drawing.Point(730, 9);
+            this.lblRuntime.Location = new System.Drawing.Point(745, 12);
             this.lblRuntime.Name = "lblRuntime";
             this.lblRuntime.Size = new System.Drawing.Size(29, 13);
             this.lblRuntime.TabIndex = 5;
             this.lblRuntime.Text = "0 ms";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(678, 12);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(46, 13);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "Runtime";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(834, 362);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.lblRuntime);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textXMLBox);
@@ -122,6 +133,7 @@
         private System.Windows.Forms.TextBox textXMLBox;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label lblRuntime;
+        private System.Windows.Forms.Label label3;
     }
 }
 
