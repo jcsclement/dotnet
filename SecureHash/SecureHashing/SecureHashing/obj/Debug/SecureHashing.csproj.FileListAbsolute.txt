@@ -1,9 +1,0 @@
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\bin\Debug\SecureHashing.exe.config
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\bin\Debug\SecureHashing.exe
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\bin\Debug\SecureHashing.pdb
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\obj\Debug\SecureHashing.csprojResolveAssemblyReference.cache
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\obj\Debug\SecureHashing.fromSHA.resources
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\obj\Debug\SecureHashing.Properties.Resources.resources
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\obj\Debug\SecureHashing.csproj.GenerateResource.Cache
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\obj\Debug\SecureHashing.exe
-C:\repos\Mygit\SecureHash\SecureHashing\SecureHashing\obj\Debug\SecureHashing.pdb
